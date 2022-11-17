@@ -166,7 +166,8 @@ def sawSend(): # pass input variable for packet loss
         # (will be either 0 or 1)
         packets = []
         # name of the file to be sent, should be located within the project directory so we don't have to navigate to it.
-        filename = "../../../Downloads/COSC635_P2_DataSent.txt"
+        #filename = "../../../Downloads/COSC635_P2_DataSent.txt"
+        filename ="COSC635_P2_DataSent.txt"
 
         # Statistic data
         # total frames sent
@@ -434,7 +435,8 @@ def gbnSend(): # pass input variable for packet loss
         # (will be either 0 or 1)
         packets = []
         # name of the file to be sent, should be located within the project directory so we don't have to navigate to it.
-        filename = "../../../Downloads/COSC635_P2_DataSent.txt"
+        #filename = "../../../Downloads/COSC635_P2_DataSent.txt"
+        filename = "COSC635_P2_DataSent.txt"
 
         # Statistic data
         # total frames sent
